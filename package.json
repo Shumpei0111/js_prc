@@ -8,9 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.js"
   },
-  "author": "Shumpei0111",
+  "author": "Shumpei0111 (https://github.com/Shumpei0111)",
   "license": "ISC",
-  
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Shumpei0111/js_prc.git"
+  },
+  "bugs": {
+      "url": "https://github.com/Shumpei0111/js_prc/issues"
+  },
+  "homepage": "https://github.com/Shumpei0111/js_prc",
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
